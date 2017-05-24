@@ -9,16 +9,27 @@
 
      // 调用展示
 self.sphereView = [[YoungSphere alloc] initWithFrame:CGRectMake(20, 200, 340, 320)];
+
 NSMutableArray *array = [[NSMutableArray alloc] initWithCapacity:0];
+
 for (NSInteger i = 0; i < 30; i ++) {
+
 self.btn = [UIButton buttonWithType:UIButtonTypeSystem];
+
 [_btn setBackgroundImage:[UIImage imageNamed:@"dog"] forState:(UIControlStateNormal)];
+
 _btn.frame = CGRectMake(0, 0, 60, 60);
+
 [_btn addTarget:self action:@selector(buttonPressed:) forControlEvents:UIControlEventTouchUpInside];
+
 [array addObject:_btn];
+
 [_sphereView addSubview:_btn];
+
 }
+
 [_sphereView setCloudTags:array];
+
 _sphereView.backgroundColor = [UIColor whiteColor];
 
 [self.view addSubview:_sphereView];
