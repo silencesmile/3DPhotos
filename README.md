@@ -1,6 +1,9 @@
 # 3DPhotos
 
-/Users/iOS/Desktop/Swift/OC/3DPhotos/11359.gif
+
+<p align="center">
+<img src="https://github.com/silencesmile/3DPhotos/blob/master/11359.gif" alt="Screenshot"/>
+</p>
 
 3D立体可旋转相册,3DPhotos,3D云相册,3D云标签
 
