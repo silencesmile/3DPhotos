@@ -7,8 +7,6 @@
 
 3D立体可旋转相册,3DPhotos,3D云相册,3D云标签
 
- [商城下载(App Store)：3D立体相册 ](https://itunes.apple.com/cn/app/3d%E7%AB%8B%E4%BD%93%E7%9B%B8%E5%86%8C-3d%E7%AB%8B%E4%BD%93%E9%85%B7%E7%82%AB%E8%87%AA%E8%BD%AC%E7%9B%B8%E5%86%8C/id1236619999?mt=8)
-
 
 [简介说明 ](http://www.jianshu.com/p/282cfa8ff3d3)
 
