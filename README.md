@@ -7,6 +7,9 @@
 
 3D立体可旋转相册,3DPhotos,3D云相册,3D云标签
 
+已上架商城：大杨子相册
+[商城下载 ](https://itunes.apple.com/cn/app/3d立体相册-3d立体酷炫自转相册/id1236619999?mt=8)
+
 
 [简介说明 ](http://www.jianshu.com/p/282cfa8ff3d3)
 
